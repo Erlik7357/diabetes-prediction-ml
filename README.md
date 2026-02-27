@@ -35,7 +35,7 @@ Enter input values when prompted, and the model will display the prediction.
 └── README.md
 
 
-# 🆘 Where to Get Help
+#  Where to Get Help
 
 If you face any issues:
 
@@ -45,9 +45,9 @@ If you face any issues:
 
 
 
-# 👨‍💻 Maintainer
+#  Maintainer
 
 **Lalit Karela**
-Agricultural Engineering Student & Agri-Entrepreneur
+Agri-Entrepreneur
 
 This project is maintained and developed for educational and practical learning purposes.
