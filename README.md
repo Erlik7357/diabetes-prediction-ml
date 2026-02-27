@@ -25,7 +25,7 @@ Enter input values when prompted, and the model will display the prediction.
 
 
 
-# 🛠 Project Structure
+# Project Structure
 
 ├── diabetes.csv
 ├── diabetes_prediction.py
